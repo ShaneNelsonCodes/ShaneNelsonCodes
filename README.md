@@ -1,9 +1,10 @@
-### Hi there, I'm Shane 👋
+### Hi there, I'm Shane <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm a Husband, Soon-to-be Father, new Developer, and lifetime student
+## I'm a Husband, Soon-to-be Father, new Developer, and Lifetime Student
 
-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="30px"> I’m currently learning Python 
+- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="25px"> I’m currently learning Python 
 - 🥅 2021 Goals: Work through 100 Days of Python Code
+- ![](https://visitor-badge.glitch.me/badge?page_id=ShaneNelsonCodes.ShaneNelsonCodes)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=white&color=800000)
